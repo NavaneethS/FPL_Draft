@@ -1,0 +1,3 @@
+
+
+Gameweek 1: [('merv', 34), ('nava', 31), ('rounaq', 29), ('arkay', 29), ('amrit', 22), ('zubin', 22), ('kishen', 21), ('korodo', 18), ('hrishi', 16), ('adi', 16), ('aahir', 15), ('varun', 12)]
